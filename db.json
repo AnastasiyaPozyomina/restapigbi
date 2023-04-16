@@ -1,7 +1,7 @@
 {
 	"products": [{
 			"id": 1,
-			"category": "Автопавильоны",
+			"category": "pavilion",
 			"title": "Автопавильон",
 			"article": 2450377,
 			"image": "/assets/images/products/avtopavilion.jpg",
@@ -14,7 +14,7 @@
 		},
 		{
 			"id": 2,
-			"category": "Плиты",
+			"category": "plita",
 			"title": "Плита перекрытия",
 			"article": 2450317,
 			"image": "/assets/images/products/plates.jpg",
@@ -27,7 +27,7 @@
 		},
 		{
 			"id": 3,
-			"category": "Балки",
+			"category": "balka",
 			"title": "Балки",
 			"article": 4550317,
 			"image": "/assets/images/products/balki.jpg",
@@ -40,7 +40,7 @@
 		},
 		{
 			"id": 4,
-			"category": "Балки",
+			"category": "balka",
 			"title": "Балки",
 			"article": 4546317,
 			"image": "/assets/images/products/balki.jpg",
@@ -53,7 +53,7 @@
 		},
 		{
 			"id": 5,
-			"category": "Блоки",
+			"category": "block",
 			"title": "Блоки",
 			"article": 6546328,
 			"image": "/assets/images/products/bloki.jpg",
@@ -66,7 +66,7 @@
 		},
 		{
 			"id": 6,
-			"category": "Блоки",
+			"category": "block",
 			"title": "Блоки",
 			"article": 6547328,
 			"image": "/assets/images/products/bloki.jpg",
@@ -79,7 +79,7 @@
 		},
 		{
 			"id": 7,
-			"category": "Брусы",
+			"category": "brus",
 			"title": "Брусы",
 			"article": 5553285,
 			"image": "/assets/images/products/brus.png",
@@ -92,7 +92,7 @@
 		},
 		{
 			"id": 8,
-			"category": "Вазоны",
+			"category": "vazon",
 			"title": "Вазоны",
 			"article": 5553285,
 			"image": "/assets/images/products/vazon.jpg",
@@ -105,7 +105,7 @@
 		},
 		{
 			"id": 9,
-			"category": "Гаражи",
+			"category": "garage",
 			"title": "Гараж",
 			"article": 5553285,
 			"image": "/assets/images/products/garag.jpg",
@@ -118,7 +118,7 @@
 		},
 		{
 			"id": 10,
-			"category": "Блоки",
+			"category": "blok",
 			"title": "Блоки",
 			"article": 6547328,
 			"image": "/assets/images/products/bloki.jpg",
@@ -131,7 +131,7 @@
 		},
 		{
 			"id": 11,
-			"category": "Вазоны",
+			"category": "vazon",
 			"title": "Вазоны",
 			"article": 4576685,
 			"image": "/assets/images/products/vazon.jpg",
